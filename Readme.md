@@ -54,11 +54,11 @@ Designed a python program for instruction decoder to decode machine code back to
 - [@SasanthaR](https://github.com/SasanthaR)                                                                                                        
  
   [//]: contributor-faces
- &nbsp;  <a href="https://github.com/ngryman"><img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/105480277?v=4&h=100&w=100&fit=cover&mask=circle&maxage=4d"></a>
+ <a href="https://github.com/ngryman"><img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/105480277?v=4&h=100&w=100&fit=cover&mask=circle&maxage=4d"></a>
   
  
 
-
+## Suggestions
 
 Don't forget to leave feedback if you find this repo useful or any improvements⭐
 
