@@ -51,7 +51,7 @@ Designed a python program for instruction decoder to decode machine code back to
 
 ## Authors
 
-- [@SasanthaR](https://github.com/SasanthaR)  <img src = "https://contrib.rocks/image?repo = SasanthaR/P___Microprocessor-Simulation-Program"/>
+- [@SasanthaR](https://github.com/SasanthaR)  <img src = "https://github.com/SasanthaR"/>
 
 
 ##  Suggestions
