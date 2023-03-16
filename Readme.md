@@ -4,7 +4,7 @@
 Designed a python program for instruction decoder to decode machine code back to the assembly program and developed a microprocessor simulation program for the given custom instruction set.
 
 ## Basic Of Microprocessor
- <img src="https://techstack-generator.vercel.app/basic idea behind the uC.png" />
+ <img src="basic idea behind the uC.png" />
 
 ## Operations
 
