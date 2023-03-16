@@ -46,9 +46,15 @@ Designed a python program for instruction decoder to decode machine code back to
  &nbsp; **Hidden Files** :   ```Processor.py``` ```insdecorder.py ```
                              
 ## Tech Stack  
-
- &nbsp; **Lanaguage:** Python  
-
+<table>
+        <td align="center" width="96">
+          <a href="#macropower-tech">
+            <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+          </a>
+          <br>Python
+        </td>
+</table>
+          
 ## Authors
 
 - [@SasanthaR](https://github.com/SasanthaR)                                                                                                        
